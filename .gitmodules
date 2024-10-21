@@ -1,0 +1,6 @@
+[submodule "frontend/livro-app"]
+    path = frontend/livro-app
+    url = https://github.com/joaorodrigues12/livro-app.git
+
+
+
